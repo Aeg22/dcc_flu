@@ -1,0 +1,17 @@
+sample_id,molecule_h5
+sample01,/path/output_multi/outs/per_sample_outs/sample01/count/sample_molecule_info.h5
+sample02,/path/output_multi/outs/per_sample_outs/sample02/count/sample_molecule_info.h5
+sample03,/path/output_multi/outs/per_sample_outs/sample03/count/sample_molecule_info.h5
+sample04,/path/output_multi/outs/per_sample_outs/sample04/count/sample_molecule_info.h5
+sample05,/path/output_multi/outs/per_sample_outs/sample05/count/sample_molecule_info.h5
+sample06,/path/output_multi/outs/per_sample_outs/sample06/count/sample_molecule_info.h5
+sample07,/path/output_multi/outs/per_sample_outs/sample07/count/sample_molecule_info.h5
+sample08,/path/output_multi/outs/per_sample_outs/sample08/count/sample_molecule_info.h5
+sample09,/path/output_multi/outs/per_sample_outs/sample09/count/sample_molecule_info.h5
+sample10,/path/output_multi/outs/per_sample_outs/sample10/count/sample_molecule_info.h5
+sample11,/path/output_multi/outs/per_sample_outs/sample11/count/sample_molecule_info.h5
+sample12,/path/output_multi/outs/per_sample_outs/sample12/count/sample_molecule_info.h5
+sample13,/path/output_multi/outs/per_sample_outs/sample13/count/sample_molecule_info.h5
+sample14,/path/output_multi/outs/per_sample_outs/sample14/count/sample_molecule_info.h5
+sample15,/path/output_multi/outs/per_sample_outs/sample15/count/sample_molecule_info.h5
+sample16,/path/output_multi/outs/per_sample_outs/sample16/count/sample_molecule_info.h5

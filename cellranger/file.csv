@@ -1,0 +1,27 @@
+[gene-expression],,
+reference,/projects/mboorgula@xsede.org/software/cellranger_references/refdata-gex-mm10-2020-A,
+probe-set,/projects/mboorgula@xsede.org/software/cellranger_probe_references/Chromium_Mouse_Transcriptome_Probe_Set_v1.0.1_mm10-2020-A.csv,
+no-bam,TRUE,
+,,
+[libraries],,
+fastq_id,fastqs,feature_types
+Wyatt_Fixed_RNASeq,/path,Gene Expression
+,,
+[samples],,
+sample_id,probe_barcode_ids,description
+sample01,BC001,group1
+sample02,BC002,group2
+sample03,BC003,group3
+sample04,BC004,group3
+sample05,BC005,group4
+sample06,BC006,group4
+sample07,BC007,group5
+sample08,BC008,group5
+sample09,BC009,group6
+sample10,BC010,group7
+sample11,BC011,group8
+sample12,BC012,group8
+sample13,BC013,group9
+sample14,BC014,group9
+sample15,BC015,group10
+sample16,BC016,group10
