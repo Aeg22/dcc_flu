@@ -1,6 +1,6 @@
 # Description
 
-This repository contains the main scripts used in the analysis of the metastatic mouse lung scRNA-seq data from the publication *Respiratory viral infection promotes the awakening and outgrowth of dormant metastatic breast cancer cells in lungs * (PMID: XXXX). Processed data are deposited to GEO as GSE264175.
+This repository contains the main scripts used in the analysis of the metastatic mouse lung scRNA-seq data from the publication *Respiratory viral infection promotes the awakening and outgrowth of dormant metastatic breast cancer cells in lungs* (PMID: XXXX). Processed data are deposited to GEO as GSE264175.
 
 # Code overview
 
